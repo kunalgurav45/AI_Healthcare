@@ -21,6 +21,7 @@ An AI-powered Healthcare Intelligence Platform built with *Streamlit, **Python, 
 ### 0️⃣ Sign Up Page
 
 
+
 ![Sign Up](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/sigh%20up.png?raw=true)
 
 
@@ -28,28 +29,33 @@ An AI-powered Healthcare Intelligence Platform built with *Streamlit, **Python, 
 ### 1️⃣ Login Page
 
 
+
 ![Login](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/login%20successfully%20.png?raw=true)
 
 
 
-### 2️⃣ Home Page
+### 2️⃣ Dashboard
 
-
-![Home](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/home.png?raw=true)
-
-
-
-### 3️⃣ Dashboard
 
 
 ![Dashboard](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/dashboard%20.png?raw=true)
 
 
 
+### 3️⃣ Home Page
+
+
+
+![Home](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/home.png?raw=true)
+
+
+
 ### 4️⃣ Disease Prediction
 
 
+
 ![Disease Prediction 1](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/disease%20prediction%201.png?raw=true)
+
 
 
 
@@ -61,12 +67,15 @@ An AI-powered Healthcare Intelligence Platform built with *Streamlit, **Python, 
 ### 5️⃣ Drug Recommendation
 
 
+
 ![Drug Recommendation 1](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/drug%20recommended%20.png?raw=true)
 
 
 
 
+
 ![Drug Recommendation 2](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/drug%20recommended%202.png?raw=true)
+
 
 
 
@@ -78,7 +87,9 @@ An AI-powered Healthcare Intelligence Platform built with *Streamlit, **Python, 
 ### 6️⃣ Heart Disease Risk Assessment
 
 
+
 ![Heart Disease 1](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/hart%201.png?raw=true)
+
 
 
 
@@ -90,7 +101,9 @@ An AI-powered Healthcare Intelligence Platform built with *Streamlit, **Python, 
 ### 7️⃣ Medibot (AI Chatbot)
 
 
+
 ![Medibot 1](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/medibot.png?raw=true)
+
 
 
 
@@ -100,6 +113,7 @@ An AI-powered Healthcare Intelligence Platform built with *Streamlit, **Python, 
 
 
 ### 8️⃣ MongoDB Integration
+
 
 
 ![MongoDB](https://github.com/kunalgurav45/AI_Healthcare/blob/main/New%20folder/mongo.png?raw=true)
